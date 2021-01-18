@@ -7,4 +7,4 @@ If you liked my work, consider giving me a star⭐️.
 
 Follow me at https://twitter.com/developer_RTbot
 
-[Twitter Profile]("image.png")
+<img src = "image.png">
