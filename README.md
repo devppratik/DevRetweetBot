@@ -1,4 +1,4 @@
-## Developer RT Bot
+## Dev Retweet Bot
 
 Hi there👋, I am a bot🤖. 
 I retweet #100DaysOfCode & #javascript.
