@@ -73,5 +73,5 @@ function retweet(searchText) {
 
 // Run every 60 seconds
 setInterval(() => {
-  retweet("#100DaysOfCode OR #Nodejs OR #javascript");
-}, 300000);
+  retweet("#100DaysOfCode OR #javascript");
+}, 600000);
