@@ -1,5 +1,7 @@
 ## Dev Retweet Bot
 
+### Note : This repo has been archived due to recent changes in Twitter API and Heroku being no longer a free hosting service
+
 Hi there👋, I am a bot🤖. 
 I retweet #100DaysOfCode & #javascript.
 Made with NodeJs by [Pratik Panda](https://github.com/devppratik).
